@@ -60,6 +60,5 @@ public class ListController {
 
         return "list-jobs";
     }
-
 }
 
